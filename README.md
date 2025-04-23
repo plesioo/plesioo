@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Bot+Developer)](https://git.io/typing-svg)
 
 ### My Skills ⌨️
-[![Skills](https://skillicons.dev/icons?i=python,cs,js,ts,react,mongodb,html,css,figma,discord,github,pycharm,vscode,notion)](https://github.com/plesioo)
+[![Skills](https://skillicons.dev/icons?i=python,vue,net,js,ts,html,css,cs,vite,mongodb,figma,discord,github,pycharm,vscode,notion)](https://github.com/plesioo)
 
 ### Waka Time Stats 📊
 <!--START_SECTION:waka-->
