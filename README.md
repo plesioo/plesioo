@@ -26,7 +26,6 @@ TypeScript                         46 hrs 3 mins   >------------------------   0
 
 ### How to reach me 🔗
  - Send me a direct message on Discord: [`plesioo`](https://discord.com/users/715819265252655154)
- - Reach out to me on X: [`plesioo_dev`](https://x.com/plesioo_dev)
  - Contact me via e-mail: [`phillipfleischer.dev@gmail.com`](mailto:phillipfleischer.dev@gmail.com)
 <!--
 **plesioo/plesioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
