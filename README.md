@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 March 2024 - To: 13 September 2025
+From: 23 March 2024 - To: 14 September 2025
 
-Total Time: 1,165 hrs 18 mins
+Total Time: 1,165 hrs 29 mins
 
 Python                             540 hrs 23 mins >>>>>>>>>>>>-------------   46.23 %
 C#                                 107 hrs 39 mins >>-----------------------   09.21 %
 Vue.js                             107 hrs 2 mins  >>-----------------------   09.16 %
 HTML                               100 hrs 38 mins >>-----------------------   08.61 %
 CSS                                96 hrs 24 mins  >>-----------------------   08.25 %
-JavaScript                         82 hrs 20 mins  >>-----------------------   07.05 %
+JavaScript                         82 hrs 20 mins  >>-----------------------   07.04 %
 TypeScript                         64 hrs 51 mins  >------------------------   05.55 %
 ```
 
